@@ -1,31 +1,53 @@
-Welcome to my pool hall, the buttons are the following:
+# 🎱 Pool Hall Game
 
-With the Left and Right arrows on your keyboard you can move the direction where the white ball will be shot (you have to press it as many times as you want, NOTE, you do NOT have to hold it down).
+Welcome to the **Pool Hall Game**! 🎮 Here's how to play and interact with the game:
 
-The "Take Shot" button will shoot the ball with an initial speed towards the direction the red arrow is pointing.
+### 🏃‍♂️ Moving the White Ball's Direction
+- Use the **Left** and **Right arrow keys** on your keyboard to adjust the direction where the white ball will be shot.
+- You can press the arrow keys multiple times to fine-tune the direction. **Note**: You do NOT need to hold down the keys, just tap them as needed.
 
-At the code level you can change the initial speed, in your code editor you can look for the following line (Ctrl + F): "local speed = 1000 -- Adjustable speed" and edit the speed.
+### 🎯 Taking the Shot
+- The **"Take Shot" button** will shoot the white ball in the direction indicated by the red arrow, with an initial speed.
 
-In order to see the changes you first have to save and the game will automatically restart with the balls in their initial position.
+### ⚙️ Adjusting the Shot Speed
+- At the code level, you can change the **initial speed** of the shot.
+- To do so, open your code editor and search for the line:  
+  `local speed = 1000 -- Adjustable speed`  
+  You can adjust the `speed` value to your preference.
 
-If you want to reload you can simply press Ctrl + R, so the balls will return to their initial position.
+### 🔄 Reloading the Game
+- After making changes to the speed, **don't forget to save** the file. The game will automatically restart, and the balls will return to their initial positions.
+- You can also reload the game anytime by pressing **Ctrl + R**, and the balls will return to their starting positions.
 
-I hope you like it, thank you very much :D.
+---
 
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+### 🎉 Enjoy the game!
+I hope you enjoy playing it. Thank you so much for trying it out! 😄
 
-Bienvenido a mi billar, los botones son los siguientes:
+---
 
-Con las flechas Izquierda y Derecha de su teclado puede mover dirección donde se disparará la bola blanca (tiene que presionarla las veces que quiera, OJO, NO tiene que mantener presionado).
+# 🎱 Juego de Billar
 
-El botón "Realizar Tiro" lanzará la pelota con una velocidad inicial hacia la dirección que se esté apuntando la flecha roja.
+¡Bienvenido al **Juego de Billar**! 🎮 Aquí te explico cómo jugar e interactuar con el juego:
 
-A nivel de código se puede cambiar la velocidad inicial, en su editor de código puede buscar la siguiente línea (Ctrl + F): "local speed = 1000  -- Velocidad ajustable" y editar la velocidad.
+### 🏃‍♂️ Mover la Dirección de la Bola Blanca
+- Usa las **teclas de flecha Izquierda** y **Derecha** en tu teclado para ajustar la dirección en la que se disparará la bola blanca.
+- Puedes presionar las teclas varias veces para ajustar la dirección. **Nota**: No es necesario mantener presionadas las teclas, solo presiona repetidamente.
 
-Para poder ver los cambios primer o tiene que guardar y se reiniciara automáticamente el juego con las pelotas en su posición inicial.
+### 🎯 Realizar el Tiro
+- El botón **"Realizar Tiro"** lanzará la bola blanca en la dirección indicada por la flecha roja, con una velocidad inicial.
 
-Si quiere recargar simplemente puede darle Ctrl + R, así las pelotas volverán a su posición inicial.
+### ⚙️ Ajustar la Velocidad del Tiro
+- A nivel de código, puedes cambiar la **velocidad inicial** del tiro.
+- Para hacerlo, abre tu editor de código y busca la línea:  
+  `local speed = 1000 -- Velocidad ajustable`  
+  Puedes modificar el valor de `speed` según lo desees.
 
-Espero le guste, muchas gracias :D.
+### 🔄 Recargar el Juego
+- Después de hacer cambios en la velocidad, **no olvides guardar** el archivo. El juego se reiniciará automáticamente y las pelotas volverán a sus posiciones iniciales.
+- También puedes recargar el juego en cualquier momento presionando **Ctrl + R**, y las pelotas volverán a su posición inicial.
 
+---
 
+### 🎉 ¡Disfruta el juego!
+Espero que te guste jugarlo. ¡Muchas gracias por probarlo! 😄
